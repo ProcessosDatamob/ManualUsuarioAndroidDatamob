@@ -1,10 +1,10 @@
 # Visão geral da solução
 
-Este manual tem como objetivo ajudar o usuário na instalação e ativação do <mark style="background-color:orange;">Datamob Enterprise</mark> em dispositivos móveis.
+Este manual tem como objetivo ajudar o usuário na instalação e ativação do **Datamob Enterprise** em dispositivos móveis.
 
-### Visão Geral <a href="#_heading-h.3dy6vkm" id="_heading-h.3dy6vkm"></a>
+### Visão Geral <a href="#heading-h.3dy6vkm" id="heading-h.3dy6vkm"></a>
 
-Este manual aplica-se à instalação e ativação do <mark style="background-color:orange;">Datamob Enterprise</mark>
+Este manual aplica-se à instalação e ativação do **Datamob Enterprise**
 
 São indispensáveis as seguintes condições para o correto funcionamento da aplicação:
 
