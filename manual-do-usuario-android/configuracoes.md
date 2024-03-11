@@ -1,6 +1,6 @@
 # Configurações
 
-Depois de efetuar o registro através de uma das 3 opções citadas nas seções anteriores, será exibida a tela "Lista de Verificação de Trabalho", nesta tela realizaremos as configurações necessárias para avançar no processo de ativação da <mark style="background-color:orange;">Datamob Enterprise</mark>.
+Depois de efetuar o registro através de uma das 3 opções citadas nas seções anteriores, será exibida a tela "Lista de Verificação de Trabalho", nesta tela realizaremos as configurações necessárias para avançar no processo de ativação da **Datamob Enterprise**.
 
 1. Aceitar e realizar todos os ajustes nas telas do dispositivo até chegar à seguinte tela
 
@@ -14,6 +14,6 @@ Depois de efetuar o registro através de uma das 3 opções citadas nas seções
 
 ![](../.gitbook/assets/4.png)
 
-4. O próximo passo na tela "Lista de Verificação de Trabalho é "Ativar licença". Inicie o processo de ativação pressionando "Configurar". Após clicar em "Configurar", a tela aparecerá para iniciar a ativação do <mark style="background-color:orange;">Datamob Enterprise.</mark>
+4. O próximo passo na tela "Lista de Verificação de Trabalho é "Ativar licença". Inicie o processo de ativação pressionando "Configurar". Após clicar em "Configurar", a tela aparecerá para iniciar a ativação do **Datamob Enterprise**.
 
 ![](../.gitbook/assets/5.png)

@@ -23,6 +23,6 @@ No caso de a empresa se registar na forma de licenças por quantidade, não ser�
 
 ![](../.gitbook/assets/9.png)
 
-6. Pronto! A sua licença <mark style="background-color:orange;">Datamob Enterprise</mark> foi ativada. Clique em Terminar para iniciar o uso do dispositivo.
+6. Pronto! A sua licença **Datamob Enterprise** foi ativada. Clique em Terminar para iniciar o uso do dispositivo.
 
 ![](../.gitbook/assets/10.png)

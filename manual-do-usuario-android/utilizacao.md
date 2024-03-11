@@ -1,3 +1,3 @@
 # Utilização
 
-Após a instalação e ativação do <mark style="background-color:orange;">Datamob Enterprise</mark>, o usuário pode usar o dispositivo com segurança, estando preservadas as regras de uso definidas pela empresa.
+Após a instalação e ativação do **Datamob Enterprise,** o usuário pode usar o dispositivo com segurança, estando preservadas as regras de uso definidas pela empresa.
